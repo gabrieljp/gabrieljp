@@ -1,5 +1,12 @@
 <!-- Perfil GitHub -->
-<body style="background-color: black;">
+
+
+<style>/* mudando a cor de fundo do readme com style */
+  body {
+    background-color:rgb(78, 72, 72); 
+  }
+</style>
+
 <div align="center"><!-- criando uma div (divisao ou bloco) e pedindo pra alinhar o conteúdo ao centro -->
   <h1>Gabriel Marcos</h1><!-- definindo o titulo da minha página -->
   <p>👨‍💻 Desenvolvedor de Software</p><!-- criando um paragrafo -->
@@ -69,4 +76,3 @@
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://example.com/build)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 
-</body>
