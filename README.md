@@ -5,7 +5,7 @@
   
   <!-- Links de Contato -->
   <div><!-- iniciando uma div -->
-    <a href="gabrielufpb@gmail.com"> <!--a tag a é utilizada para criar hiper ligaçoes, nesse caso o link sera para quando clicar levar ao meu email -->
+    <a href="https://mail.google.com/mail/"> <!--a tag a é utilizada para criar hiper ligaçoes, nesse caso o link sera para quando clicar levar ao meu email -->
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> <!--inserindo uma imagem e colocando um link para quando clicar na imagem ser direcionado-->
     </a>
     <a href="https://linkedin.com/in/seu-usuario">
