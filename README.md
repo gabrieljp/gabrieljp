@@ -1,12 +1,12 @@
 <!-- Perfil GitHub Simples -->
-<div align="center">
-  <h1>Gabriel Marcos</h1>
-  <p>👨‍💻 Desenvolvedor de Software</p>
+<div align="center"><!-- criando uma div (divisao ou bloco) e pedindo pra alinhar o conteúdo ao centro -->
+  <h1>Gabriel Marcos</h1><!-- definindo o titulo da minha página -->
+  <p>👨‍💻 Desenvolvedor de Software</p><!-- criando um paragrafo -->
   
   <!-- Links de Contato -->
-  <div>
-    <a href="gabrielufpb@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <div><!-- iniciando uma div -->
+    <a href="gabrielufpb@gmail.com"> <!--a tag a é utilizada para criar hiper ligaçoes, nesse caso o link sera para quando clicar levar ao meu email -->
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> <!--inserindo uma imagem e colocando um link para quando clicar na imagem ser direcionado-->
     </a>
     <a href="https://linkedin.com/in/seu-usuario">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,8 +18,8 @@
 
   <!-- Sobre Mim -->
   <div>
-    <h2>Sobre Mim</h2>
-    <p>
+    <h2>Sobre Mim</h2><!--criando um sub-titulo -->
+    <p><!--criando um paragrafo e logo abaixo o paragrafo-->
       Desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados.
       Experiência em desenvolvimento web e comprometido com a qualidade do código.
     </p>
@@ -32,14 +32,14 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </div>
-  <br>
+  <br><!-- quebrando uma linha -->
 
   <!-- Estatísticas -->
  [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=gabrieljp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   <div>
     <!-- Contador de Visitas -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario" alt="Visitantes" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.gabrieljp" alt="Visitantes" />
   </div>
 
 
@@ -50,6 +50,6 @@
 </p>
 
 <p align="center">
-  <img src="link-para-algum-badge-estatistico" alt="Estatísticas do Projeto">
+  <img src="https://github.com/gabrieljp/gabrieljp/graphs/traffic" alt="Estatísticas do Projeto">
 </p>
 
