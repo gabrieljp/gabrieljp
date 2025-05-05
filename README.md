@@ -1,7 +1,6 @@
 <!-- Perfil GitHub -->
-
-
-<style>/* mudando a cor de fundo do readme com style */
+<!-- usando o style para mudara a cor de fundo -->
+<style>
   body {
     background-color:rgb(78, 72, 72); 
   }
