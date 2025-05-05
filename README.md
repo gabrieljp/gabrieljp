@@ -59,4 +59,6 @@
 
   [![gabrieljp](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp) 
 
+<!-- linguagens mais usadas no meu git -->
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
