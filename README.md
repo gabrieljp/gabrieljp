@@ -68,6 +68,8 @@
   <!-- linguagens mais usadas no meu git -->
   <h2>Minhas linguagens</h2>
 
+  <!-- usando as Badges Estilizado para estilizar minha pagina-->
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://example.com/build)
