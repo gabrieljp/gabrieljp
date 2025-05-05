@@ -50,6 +50,6 @@
 </p>
 
 
-  [![gabrieljp](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp) alt="Estatísticas do Projeto">
+  [![gabrieljp](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp) 
 
 
