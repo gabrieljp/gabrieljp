@@ -1,4 +1,5 @@
-<!-- Perfil GitHub Simples -->
+<!-- Perfil GitHub -->
+<body style="background-color: #f0f0f0;">
 <div align="center"><!-- criando uma div (divisao ou bloco) e pedindo pra alinhar o conteúdo ao centro -->
   <h1>Gabriel Marcos</h1><!-- definindo o titulo da minha página -->
   <p>👨‍💻 Desenvolvedor de Software</p><!-- criando um paragrafo -->
@@ -50,8 +51,8 @@
 
 
 
-<!-- usando css diretamente na tag p -->
-<p style="color: blue; font-size: 16px; align="center">
+
+<p align="center">
   <strong><!--deixando o texto em evidencia(dando importancia)-->Agradecimentos especiais aos nossos <a href="https://www.instagram.com/marcosoliverpb/">contribuidores</a>!</strong>
 </p>
 
@@ -67,4 +68,5 @@
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://example.com/build)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
-[![Last Commit](https://img.shields.io/github/last-commit/gabrieljp/gabrieljp)](https://github.com/gabrieljp/gabrieljp/commits/main)
+
+</body>
