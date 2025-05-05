@@ -1,5 +1,5 @@
 <!-- Perfil GitHub -->
-<body style="background-color: #f0f0f0;">
+<body style="background-color: black;">
 <div align="center"><!-- criando uma div (divisao ou bloco) e pedindo pra alinhar o conteúdo ao centro -->
   <h1>Gabriel Marcos</h1><!-- definindo o titulo da minha página -->
   <p>👨‍💻 Desenvolvedor de Software</p><!-- criando um paragrafo -->
