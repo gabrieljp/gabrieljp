@@ -36,7 +36,7 @@
   <!-- Estatísticas -->
   <div>
     <h2>Estatísticas GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrieljp&show_icons=true&theme=dracula" alt="GitHub Stats" />
   </div>
 
   <!-- Contador de Visitas -->
@@ -48,7 +48,11 @@
   <a href="link-para-sua-release" style="color:#28a745; text-decoration:none;">Leia mais...</a>
 </div>
 
+
+
+
 <hr>
+
 
 <p align="center">
   <strong>Agradecimentos especiais aos nossos <a href="#contribuidores">contribuidores</a>!</strong>
@@ -57,3 +61,4 @@
 <p align="center">
   <img src="link-para-algum-badge-estatistico" alt="Estatísticas do Projeto">
 </p>
+
