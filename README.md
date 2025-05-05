@@ -50,8 +50,8 @@
 
 
 
-
-<p align="center">
+<!-- usando css diretamente na tag p -->
+<p style="color: blue; font-size: 16px; align="center">
   <strong><!--deixando o texto em evidencia(dando importancia)-->Agradecimentos especiais aos nossos <a href="https://www.instagram.com/marcosoliverpb/">contribuidores</a>!</strong>
 </p>
 
@@ -65,6 +65,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://example.com/build)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://example.com/build)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 [![Last Commit](https://img.shields.io/github/last-commit/gabrieljp/gabrieljp)](https://github.com/gabrieljp/gabrieljp/commits/main)
