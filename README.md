@@ -1,6 +1,6 @@
 <!-- Perfil GitHub Simples -->
 <div align="center">
-  <h1>Seu Nome</h1>
+  <h1>Gabriel Marcos</h1>
   <p>👨‍💻 Desenvolvedor de Software</p>
   
   <!-- Links de Contato -->
