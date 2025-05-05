@@ -1,12 +1,10 @@
 <!-- Perfil GitHub -->
-<!-- usando o style para mudara a cor de fundo -->
-<style>
-  body {
-    background-color:rgb(78, 72, 72); 
-  }
-</style>
 
-<div align="center"><!-- criando uma div (divisao ou bloco) e pedindo pra alinhar o conteúdo ao centro -->
+<!--O Markdown é uma linguagem de marcação leve na qual o git hub aceita bem, algumas tags avançadas do html e atributos do css ela ignora-->
+
+<div align="center">
+
+<!-- criando uma div (divisao ou bloco) e pedindo pra alinhar o conteúdo ao centro -->
   <h1>Gabriel Marcos</h1><!-- definindo o titulo da minha página -->
   <p>👨‍💻 Desenvolvedor de Software</p><!-- criando um paragrafo -->
   
@@ -58,20 +56,20 @@
 
 
 
-<p align="center">
+  <p align="center">
   <strong><!--deixando o texto em evidencia(dando importancia)-->Agradecimentos especiais aos nossos <a href="https://www.instagram.com/marcosoliverpb/">contribuidores</a>!</strong>
-</p>
+  </p>
 
-<!-- mostrando o avanço de um projeto -->
-<h2>Veja esse projeto</h2>
+  <!-- mostrando o avanço de um projeto -->
+  <h2>Veja esse projeto</h2>
 
   [![gabrieljp](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp) 
 
-<!-- linguagens mais usadas no meu git -->
-<h2>Minhas linguagens</h2>
+  <!-- linguagens mais usadas no meu git -->
+  <h2>Minhas linguagens</h2>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://example.com/build)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+  [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://example.com/build)
+  [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 
