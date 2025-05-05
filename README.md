@@ -1,4 +1,4 @@
-<!-- Perfil GitHub Simples -->
+[<!-- Perfil GitHub Simples -->
 <div align="center"><!-- criando uma div (divisao ou bloco) e pedindo pra alinhar o conteúdo ao centro -->
   <h1>Gabriel Marcos</h1><!-- definindo o titulo da minha página -->
   <p>👨‍💻 Desenvolvedor de Software</p><!-- criando um paragrafo -->
@@ -62,3 +62,4 @@
 <!-- linguagens mais usadas no meu git -->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+](https://www.instagram.com/marcosoliverpb/#)
