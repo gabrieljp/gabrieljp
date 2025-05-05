@@ -46,9 +46,10 @@
 
 
 <p align="center">
-  <strong>Agradecimentos especiais aos nossos <a href="#contribuidores">contribuidores</a>!</strong>
+  <strong><!--deixando o texto em evidencia(dando importancia)-->Agradecimentos especiais aos nossos <a href="#contribuidores">contribuidores</a>!</strong>
 </p>
 
+<!-- mostrando o avanço de um projeto -->
 
   [![gabrieljp](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp) 
 
