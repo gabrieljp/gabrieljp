@@ -1,4 +1,4 @@
-[<!-- Perfil GitHub Simples -->
+<!-- Perfil GitHub Simples -->
 <div align="center"><!-- criando uma div (divisao ou bloco) e pedindo pra alinhar o conteúdo ao centro -->
   <h1>Gabriel Marcos</h1><!-- definindo o titulo da minha página -->
   <p>👨‍💻 Desenvolvedor de Software</p><!-- criando um paragrafo -->
@@ -52,14 +52,15 @@
 
 
 <p align="center">
-  <strong><!--deixando o texto em evidencia(dando importancia)-->Agradecimentos especiais aos nossos <a href="#contribuidores">contribuidores</a>!</strong>
+  <strong><!--deixando o texto em evidencia(dando importancia)-->Agradecimentos especiais aos nossos <a href="https://www.instagram.com/marcosoliverpb/">contribuidores</a>!</strong>
 </p>
 
 <!-- mostrando o avanço de um projeto -->
+<h2>Veja esse projeto</h2>
 
   [![gabrieljp](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp) 
 
 <!-- linguagens mais usadas no meu git -->
+<h2>Minhas linguagens</h2>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-](https://www.instagram.com/marcosoliverpb/#)
