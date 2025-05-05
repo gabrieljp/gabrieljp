@@ -64,3 +64,7 @@
 <h2>Minhas linguagens</h2>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://example.com/build)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+[![Last Commit](https://img.shields.io/github/last-commit/gabrieljp/gabrieljp)](https://github.com/gabrieljp/gabrieljp/commits/main)
