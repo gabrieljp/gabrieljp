@@ -32,26 +32,17 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </div>
+  <br>
 
   <!-- Estatísticas -->
+ [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=gabrieljp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
   <div>
-    <h2>Estatísticas GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrieljp&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    <!-- Contador de Visitas -->
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario" alt="Visitantes" />
   </div>
 
-  <!-- Contador de Visitas -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario" alt="Visitantes" />
-</div>
-<div style="background-color:#f0f0f0; padding:15px; border-radius:5px;">
-  <h3><span style="color:#007bff;">🚀 Última Atualização</span></h3>
-  <p>Confira a nova funcionalidade de <span style="font-weight:bold;">busca avançada</span>!</p>
-  <a href="link-para-sua-release" style="color:#28a745; text-decoration:none;">Leia mais...</a>
-</div>
 
-
-
-
-<hr>
 
 
 <p align="center">
