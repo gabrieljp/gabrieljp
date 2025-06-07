@@ -60,10 +60,10 @@
   <strong><!--deixando o texto em evidencia(dando importancia)-->Agradecimentos especiais aos nossos <a href="https://www.instagram.com/marcosoliverpb/">contribuidores</a>!</strong>
   </p>
 
-  <!-- mostrando o avanço de um projeto -->
-  <h2>Veja esse projeto</h2>
+## Veja esse projeto
 
-  [![gabrieljp]([https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp](https://github.com/gabrieljp/HotelReserveGarden.git)
+[![gabrieljp](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp)
+
 
   <!-- linguagens mais usadas no meu git -->
   <h2>Minhas linguagens</h2>
