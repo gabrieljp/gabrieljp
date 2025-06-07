@@ -63,7 +63,7 @@
   <!-- mostrando o avanço de um projeto -->
   <h2>Veja esse projeto</h2>
 
-  [![gabrieljp](https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp) 
+  [![gabrieljp]([https://github-readme-stats.vercel.app/api/pin/?username=gabrieljp&repo=gabrieljp&theme=radical)](https://github.com/gabrieljp/gabrieljp](https://github.com/gabrieljp/HotelReserveGarden.git)
 
   <!-- linguagens mais usadas no meu git -->
   <h2>Minhas linguagens</h2>
